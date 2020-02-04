@@ -1,0 +1,903 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+main {
+	width: 1280px;
+	height: 2354px;
+	margin-left: 311.5px;
+	background-color: white;
+}
+footer {
+	width: 1280px;
+	height: 509px;
+	background-image: url(imgs/footer-bg.png);
+	position: absolute;
+	margin-left: 311.5px;
+}
+.header {
+	width: 1280px;
+	height: 323px;
+}
+.header__bg {
+	background-image: url(imgs/header-bg.png);
+	width: 1280px;
+	height: 323px;
+	margin-left: 311.5px;
+}
+.header__shape {
+	background-image: url(imgs/Shape_9.png);
+	width: 469px;
+	height: 214px;
+	position: absolute;
+	top: 50px;
+	left: 1080.5px;
+	bottom: 59px;
+	right: 50px;
+}
+.product__name {
+	width: 367px;
+	height: 44px;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 60px;
+	font-weight: 400;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.some__text {
+	width: 422px;
+	height: 127px;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 86px;
+	margin-top: 145px;
+}
+.icon1 {
+	width: 25px;
+	height: 19px;
+	background-image: url(imgs/check_icon.png);
+	position: absolute;
+	margin-left: 51px;
+	margin-top: 152px;
+}
+.icon2 {
+	background-image: url(imgs/check_icon.png);
+	width: 25px;
+	height: 19px;
+	position: absolute;
+	margin-left: 51px;
+	margin-top: 186px;
+}
+.icon3 {
+	background-image: url(imgs/check_icon.png);
+	width: 25px;
+	height: 19px;
+	position: absolute;
+	margin-left: 51px;
+	margin-top: 222px;
+}
+.icon4 {
+	background-image: url(imgs/check_icon.png);
+	width: 25px;
+	height: 19px;
+	position: absolute;
+	margin-left: 51px;
+	margin-top: 258px;
+}
+.main__video {
+	width: 430px;
+	height: 245px;
+	background-color: #445161;
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 50px;
+}
+.about__product {
+	width: 254px;
+	height: 28px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 49px;
+}
+.main__text__one {
+	width: 649px;
+	height: 63px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 107px;
+}
+.main__text__two {
+	width: 653px;
+	height: 60px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 190px;
+}
+.pluses__of__product {
+	width: 351px;
+	height: 28px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 464px;
+	margin-top: 394px;
+}
+.plus__bg1 {
+	background-image: url(imgs/Shape_3.png);
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 451px;
+}
+.plus1 {
+	background-image: url(imgs/Layer_2.png);
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 56px;
+	margin-top: 457px;
+}
+.plus__bg2 {
+	background-image: url(imgs/Shape_3.png);
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 549px;
+}
+.plus2 {
+	background-image: url(imgs/Layer_2.png);
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 56px;
+	margin-top: 555px;
+}
+.plus__bg3 {
+	background-image: url(imgs/Shape_3.png);
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 648px;
+}
+.plus3 {
+	background-image: url(imgs/Layer_2.png);
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 56px;
+	margin-top: 654px;
+}
+.plus__bg4 {
+	background-image: url(imgs/Shape_3.png);
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 451px;
+}
+.plus4 {
+	background-image: url(imgs/Layer_2.png);
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 646px;
+	margin-top: 457px;
+}
+.plus__bg5 {
+	background-image: url(imgs/Shape_3.png);
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 549px;
+}
+.plus5 {
+	background-image: url(imgs/Layer_2.png);
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 646px;
+	margin-top: 555px;
+}
+.plus__bg6 {
+	background-image: url(imgs/Shape_3.png);
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 648px;
+}
+.plus6 {
+	background-image: url(imgs/Layer_2.png);
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 646px;
+	margin-top: 654px;
+}
+.firstplus, .secondplus, .thirdplus, .fourthplus, .fifthplus, .sixthplus {
+	width: 526px;
+	height: 63px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.firstplus {
+	position: absolute;
+	margin-left: 91px;
+	margin-top: 451px;
+}
+.secondplus {
+	position: absolute;
+	margin-left: 91px;
+	margin-top: 549px;
+}
+.thirdplus {
+	position: absolute;
+	margin-left: 91px;
+	margin-top: 648px;
+}
+.fourthplus {
+	position: absolute;
+	margin-left: 681px;
+	margin-top: 451px;
+}
+.fifthplus {
+	position: absolute;
+	margin-left: 681px;
+	margin-top: 549px;
+}
+.sixthplus {
+	position: absolute;
+	margin-left: 681px;
+	margin-top: 648px;
+}
+.screenshots__intro {
+	width: 138px;
+	height: 22px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 571px;
+	margin-top: 813px;
+}
+.screenshot__one {
+	background-image: url(imgs/imagegg.png);
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 870px;
+}
+.screenshot__two {
+	background-image: url(imgs/imagegg.png);
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 1050px;
+}
+.screenshot__three {
+	background-image: url(imgs/imagegg.png);
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 870px;
+}
+.screenshot__four {
+	background-image: url(imgs/imagegg.png);
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 1050px;
+}
+.screen__one__description {
+	width: 310px;
+	height: 23px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 265px;
+	margin-top: 869px;
+}
+.screen__two__description {
+	width: 310px;
+	height: 23px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 265px;
+	margin-top: 1049px;
+}
+.screen__three__description {
+	width: 310px;
+	height: 23px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 855px;
+	margin-top: 869px;
+}
+.screen__four__description {
+	width: 310px;
+	height: 23px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 855px;
+	margin-top: 1049px;
+}
+.text__first__screen {
+	width: 359px;
+	height: 108px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 265px;
+	margin-top: 907px;
+}
+.text__second__screen {
+	width: 359px;
+	height: 108px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 265px;
+	margin-top: 1087px;
+}
+.text__third__screen {
+	width: 359px;
+	height: 108px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 855px;
+	margin-top: 907px;
+}
+.text__fourth__screen {
+	width: 359px;
+	height: 108px;
+	color: #333333;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 855px;
+	margin-top: 1087px;
+}
+.reviews {
+	width: 111px;
+	height: 22px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 585px;
+	margin-top: 1299px;
+}
+.user__first {
+	background-image: url(imgs/userpic.png);
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 1356px;
+}
+.user__second {
+	background-image: url(imgs/userpic.png);
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 1501px;
+}
+.user__third {
+	background-image: url(imgs/userpic.png);
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	margin-left: 656px;
+	margin-top: 1356px;
+}
+.user__fourth {
+	background-image: url(imgs/userpic.png);
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	margin-left: 656px;
+	margin-top: 1501px;
+}
+.first__user__review {
+	width: 436px;
+	height: 64px;
+	color: #333333;
+	font-family: "Arial - Italic MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	margin-left: 168px;
+	margin-top: 1372px;
+}
+.second__user__review {
+	width: 436px;
+	height: 64px;
+	color: #333333;
+	font-family: "Arial - Italic MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	margin-left: 168px;
+	margin-top: 1517px;
+}
+.third__user__review {
+	width: 436px;
+	height: 64px;
+	color: #333333;
+	font-family: "Arial - Italic MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	margin-left: 774px;
+	margin-top: 1372px;
+}
+.fourth__user__review {
+	width: 436px;
+	height: 64px;
+	color: #333333;
+	font-family: "Arial - Italic MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	margin-left: 774px;
+	margin-top: 1517px;
+}
+.reviewer__name {
+	font-family: "Arial MT";
+	color: #989898;
+	width: 67px;
+	height: 10px;
+}
+.buy {
+	width: 137px;
+	height: 28px;
+	color: #445161;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 572px;
+	margin-top: 1723px;
+}
+.standart__kit {
+	background-image: url(imgs/bg-standart.png);
+	width: 300px;
+	height: 306px;
+	position: absolute;
+	margin-left: 145px;
+	margin-top: 1973px;
+}
+.standart__name {
+	width: 90px;
+	height: 18px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 105px;
+	margin-top: 15px;
+}
+.standart__price__bg {
+	background-color: white;
+	width: 296px;
+	height: 71px;
+	border: 2px solid #445162;
+	position: absolute;
+	margin-top: 51px;
+}
+.standart__price {
+	width: 87px;
+	height: 35px;
+	color: #445162;
+	font-family: "Arial MT";
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 107px;
+}
+.standart__description {
+	width: 242px;
+	height: 86px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 141px;
+}
+.standart__btn__bg {
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 246px;
+}
+.standart {
+	color: #445161;
+	font-family: "Arial - Bold MT";
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 18px;
+	text-transform: uppercase;
+	width: 260px;
+	height: 40px;
+	border-radius: 6px;
+}
+.premium__kit {
+	background-image: url(imgs/bg-premium.png);
+	width: 300px;
+	height: 404px;
+	position: absolute;
+	margin-left: 490px;
+	margin-top: 1875px;
+}
+.premium__name {
+	width: 94px;
+	height: 17px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 103px;
+	margin-top: 17px;
+}
+.premium__price__bg {
+	background-color: white;
+	width: 296px;
+	height: 71px;
+	border: 2px solid #445162;
+	position: absolute;
+	margin-top: 51px;
+}
+.premium__price {
+	width: 87px;
+	height: 35px;
+	color: #445162;
+	font-family: "Arial MT";
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 107px;
+	margin-top: 18px;
+}
+.premium__description {
+	width: 242px;
+	height: 182px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 141px;
+}
+.premium__btn__bg {
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 344px;
+}
+.premium {
+	width: 260px;
+	height: 40px;
+	color: #445161;
+	font-family: "Arial - Bold MT";
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 18px;
+	text-transform: uppercase;
+	border-radius: 6px;
+}
+.lux__kit {
+	background-image: url(imgs/bg-lux.png);
+	width: 300px;
+	height: 499px;
+	position: absolute;
+	margin-left: 835px;
+	margin-top: 1780px;
+}
+.lux__name {
+	width: 38px;
+	height: 17px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 131px;
+	margin-top: 17px;
+}
+.lux__price__bg {
+	background-color: white;
+	width: 296px;
+	height: 71px;
+	border: 2px solid #445162;
+	position: absolute;
+	margin-top: 51px;
+}
+.lux__price {
+	width: 87px;
+	height: 35px;
+	color: #445162;
+	font-family: "Arial MT";
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 107px;
+	margin-top: 18px;
+}
+.lux__description {
+	width: 250px;
+	height: 278px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 141px;
+}
+.lux__btn__bg {
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 439px;
+}
+.lux {
+	width: 260px;
+	height: 40px;
+	color: #445161;
+	font-family: "Arial - Bold MT";
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 18px;
+	text-transform: uppercase;
+	border-radius: 6px;
+}
+.footer__name {
+	width: 117px;
+	height: 22px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 582px;
+	margin-top: 53px;
+}
+.your__name {
+	width: 500px;
+	height: 40px;
+	position: absolute;
+	margin-left: 246px;
+	margin-top: 106px;
+	border: none;
+}
+.name__input {
+	color: #445162;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	width: 500px;
+	height: 40px;
+	position: absolute;
+	border-radius: 5px;
+	left: 10px;
+	top: 14px;
+}
+.your__email {
+	width: 500px;
+	height: 40px;
+	position: absolute;
+	margin-left: 246px;
+	margin-top: 167px;
+	border: none;
+}
+.email__input {
+	width: 500px;
+	height: 40px;
+	color: #445162;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	left: 10px;
+	top: 14px;
+	border-radius: 5px;
+}
+
+.message__input {
+	width: 500px;
+	height: 170px;
+	color: #445162;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	left: 10px;
+	top: 13px;
+	border-radius: 5px;
+	margin-left: 246px;
+	margin-top: 229px;
+}
+.send__btn {
+	width: 140px;
+	height: 40px;
+	color: #445162;
+	font-family: "Arial - Bold MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	text-transform: uppercase;
+	border-radius: 5px;
+	position: absolute;
+	margin-left: 429px;
+	margin-top: 430px;
+}
+.skype__icon {
+	background-image: url(imgs/skype_icon.png);
+	width: 24px;
+	height: 26px;
+	position: absolute;
+	margin-left: 795px;
+	margin-top: 120px;
+}
+.skype__name {
+	width: 165px;
+	height: 15px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 824px;
+	margin-top: 120px;
+}
+.icq__icon {
+	background-image: url(imgs/icq_icon.png);
+	width: 26px;
+	height: 26px;
+	position: absolute;
+	margin-left: 795px;
+	margin-top: 164px;
+}
+.icq__name {
+	width: 80px;
+	height: 12px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 824px;
+	margin-top: 164px;
+}
+.email__icon {
+	background-image: url(imgs/email_icon.png);
+	width: 22px;
+	height: 22px;
+	position: absolute;
+	margin-left: 795px;
+	margin-top: 209px;
+}
+.email__name {
+	width: 144px;
+	height: 15px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 824px;
+	margin-top: 209px;
+}
+.phone__icon {
+	background-image: url(imgs/phone_icon.png);
+	width: 24px;
+	height: 23px;
+	position: absolute;
+	margin-left: 795px;
+	margin-top: 252px;
+}
+.phone__number {
+	width: 124px;
+	height: 12px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	margin-left: 824px;
+	margin-top: 252px;
+}
