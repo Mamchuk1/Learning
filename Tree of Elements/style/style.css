@@ -1,0 +1,19 @@
+body ul {
+	list-style-type: none;
+}
+
+.tree span:hover {
+	font-weight: bold;
+}
+
+.tree span {
+	cursor: pointer;
+}
+
+.hide::before {
+	content: "+";
+}
+
+.show::before {
+	content: "-";
+}
